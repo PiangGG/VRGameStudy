@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRGameStudy",
+			"Path": "D:\\Code\\UnrealEngine\\VRGameStudy\\Source\\VRGameStudy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRGameStudyEditor",
+			"Path": "D:\\Code\\UnrealEngine\\VRGameStudy\\Source\\VRGameStudyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
